@@ -196,8 +196,8 @@ Registeration Number : 212221040100
 
 ## OUTPUT:
   
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/43ba6ed5-2ead-431a-8861-863f52a8105d)  
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/63af711e-e4ca-40ff-8838-389dccfb59dd)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/c2d2e2b2-4eb7-42dc-936b-36bdb952692d)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/9c582ced-03f2-4cf4-b345-b22aeab05f32)
 
 ## RESULT:
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
