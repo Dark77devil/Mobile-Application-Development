@@ -173,9 +173,9 @@ Registeration Number : 212221040100
 
 ## OUTPUT:
 
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/562f5eee-68f6-4af8-ac16-05562c175bc9)  
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/78bb6cd7-6ef2-405d-9abd-307aea56081a)  
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/ee826d51-7938-4296-bc43-2a1a010733ce)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/3ab534a5-bdc9-4768-bdb0-523da9c3e98b)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/20e53dab-e1c4-4c80-8de9-024ed2d1552c)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/72d5e4da-7532-480d-82b7-3b2c2aa77774)
 
 ## RESULT:
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
