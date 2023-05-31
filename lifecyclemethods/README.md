@@ -126,25 +126,25 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 
 ## onStart()
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/8cba54f1-6212-4df0-bcdb-f63968180a8c)
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/7d768845-6bbf-4a8e-a4a2-d332ebd094fd)  
 
 ## onCreate()
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/9cb0a129-1e6e-4070-9d46-e883a3c5ffa8)
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/e906e829-442f-4879-a111-83cdcdb88e46)  
 
 ## onRestart()
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/65457888-9a0f-453c-a7f0-238718ce93b3)
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/a3c5c24b-5a93-4dac-8a69-74f77db1ec41)  
 
 ## onPause()
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/65590a7f-907f-4322-a343-e0e9dfb07f04)
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/0cbe8955-d0a9-4097-a28b-b2f459849858)  
 
 ## onResume()
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/54f82a3d-ab7a-4122-9c62-8465d6c1271f)
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/0666c1e5-90e0-4198-b747-b2c9e2dab4f8)  
 
 ## onDestroy()
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/832d0445-3278-48e4-b718-7f0c030f73d1)
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/4cd5280a-3299-4109-b2a0-f68562f9fb9f)  
 
 ## onStop()
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/3e74dfc3-82a2-4c4e-86f4-1361d8b499ed)
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/de1af89a-bce5-40f3-97b5-728e3de30fc7)
 
 ## RESULT:
 Thus a Simple Android Application create a HelloWorld Activity using all lifecycles methods to display messages using Android Studio is developed and executed successfully.
