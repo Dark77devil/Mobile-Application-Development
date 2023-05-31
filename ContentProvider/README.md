@@ -120,9 +120,9 @@ Registeration Number : 212221040100
 
 ## OUTPUT:
 
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/e057b9fe-9a03-4b5e-b6ac-09d6b3f92037)
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/35c6c462-ab48-4703-9387-408286f77b9b)
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/07ea2207-a2d8-494d-b9e3-e579f308a3d1)
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/f7db674f-802b-4ccc-a49e-e07f19b48474)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/9389e63d-92e2-440e-8af8-e96a100bf2b2)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/fa95ba9e-2e66-4181-9633-3529d1d97544)
 
 ## RESULT:
 Thus a Simple Android Application create your own content providers to get contacts details using Android Studio is developed and executed successfully.
