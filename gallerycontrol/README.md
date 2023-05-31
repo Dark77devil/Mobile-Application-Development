@@ -142,8 +142,8 @@ Registeration Number : 212221040113
 
 ## OUTPUT:
 
-![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/825ff6df-8bf2-4396-8a0d-a7b4d345631b)
-![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/5416fd10-06f7-4b3b-9e57-9c7b8b5ff4af)
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/825ff6df-8bf2-4396-8a0d-a7b4d345631b)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/5416fd10-06f7-4b3b-9e57-9c7b8b5ff4af)  
 ![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/cff5c31c-2feb-46b2-8351-dd4570c66b6d)
 
 
