@@ -175,11 +175,11 @@ Registeration Number : 212221040100
 
 ## OUTPUT:
 
-![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/42933bac-102e-4860-981d-a4a4a40be84b)
-![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/295a7549-378d-449a-a773-c19bab056d13)
-![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/f650a63b-ad23-4304-83b9-a59748c5ae87)
-![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/328038b5-60f8-4a0e-bc39-d777efb415d1)
-![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/a2a290fe-cca2-4d8a-aedf-f81552596af8)
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/42933bac-102e-4860-981d-a4a4a40be84b)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/295a7549-378d-449a-a773-c19bab056d13)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/f650a63b-ad23-4304-83b9-a59748c5ae87)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/328038b5-60f8-4a0e-bc39-d777efb415d1)  
+![image](https://github.com/Dark77devil/Mobile-Application-Development/assets/115543366/a2a290fe-cca2-4d8a-aedf-f81552596af8)  
 
 ## RESULT:
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
